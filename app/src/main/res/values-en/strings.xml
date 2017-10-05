@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YOUR SCORE.COM</string>
+    <string name="action_settings">Settings</string>
+    <string name="btncalcular">Average</string>
+    <string name="definitiva">Final Score</string>
+    <string name="hello_blank_fragment">blanco</string>
+    <string name="materia">"Subject Name : "</string>
+    <string name="nota1">Score 1 :</string>
+    <string name="nota2">Score 2 :</string>
+    <string name="nota3">Score 3 :</string>
+    <string name="prommateria">"Final Score : "</string>
+    <string name="section_format">blnco1</string>
+    <string name="tabacerca">About Of</string>
+    <string name="tabnotas">Scores</string>
+    <string name="faltan">Enter totaly scores please!</string>
+    <string name="promsemes">Semester Average</string>
+    <string name="btguardar">Save Average</string>
+    <string name="btcargar">"Load Average "</string>
+    <string name="guardado">Your average has been saved successfully!</string>
+    <string name="cargado">Your average has been saved successfully!</string>
+    <string name="desar">Developing By : Andres Valencia</string>
+    <string name="salir">Finish</string>
+    <string name="errorconvert">Some income is incorrect.</string>
+    <string name="clear">Clear</string>
+</resources>

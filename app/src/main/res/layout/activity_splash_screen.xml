@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/windowBackground"
+    android:weightSum="1"
+    tools:context="com.example.danceculture.score.SplashScreen">
+
+    <LinearLayout
+        android:id="@+id/G"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.32"
+            android:text="@string/desar" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.08"
+            android:text="@string/app_name"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textStyle="bold|italic" />
+
+        <ProgressBar
+            android:id="@+id/progressBar7"
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_width="320dp"
+            android:layout_height="10dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.13"
+            android:visibility="visible" />
+
+    </LinearLayout>
+</LinearLayout>

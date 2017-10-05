@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TUS NOTAS.COM</string>
+    <string name="action_settings">Conf.</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tabnotas">Calificaciones</string>
+    <string name="tabacerca">Acerca De</string>
+    <string name="materia">Materia :</string>
+    <string name="nota1">Nota 1  :</string>
+    <string name="nota2">Nota 2 :</string>
+    <string name="nota3">Nota 3 :</string>
+    <string name="definitiva">Definitiva :</string>
+    <string name="btncalcular">Promedio Semestral :</string>
+    <string name="prommateria">Nota Final :</string>
+    <string name="faltan">Ingrese todas las calificaciones porfavor!</string>
+    <string name="promsemes">Promedio Semestral</string>
+    <string name="btguardar">Guardar Promedio</string>
+    <string name="btcargar">Cargar Promedio</string>
+    <string name="guardado">Se ha guardado tu promedio!</string>
+    <string name="cargado">Tu promedio se ha cargado!</string>
+    <string name="desar">Desarrollado por : Andres Valencia</string>
+    <string name="salir">Salir</string>
+    <string name="errorconvert">Algun ingreso es incorrecto</string>
+    <string name="clear">Limpiar</string>
+</resources>
